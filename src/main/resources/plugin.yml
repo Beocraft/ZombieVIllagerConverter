@@ -1,0 +1,8 @@
+name: ZombieVillagerConverter
+version: ${project.version}
+main: net.beocraft.mobs.ZombieVillagerConverter
+api-version: 1.16
+prefix: ZombieVillagers
+authors: [ Pequla ]
+description: Every zombie villager zombied by player gets healed
+website: https://beocraft.net/
